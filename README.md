@@ -1,2 +1,2 @@
 # Spring-boot
-This project an Implementation for Sprint boot and spring REST
+This project is an Implementation for Spring boot and spring REST
